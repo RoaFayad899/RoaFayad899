@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roa Fayad</h1>
-<h3 align="center">A medical physicist from Lebanon</h3>
+<h3 align="center">A Medical Physicist from Lebanon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roafayad899&label=Profile%20views&color=0e75b6&style=flat" alt="roafayad899" /> </p>
 
