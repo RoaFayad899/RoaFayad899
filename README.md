@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Javascipt and Typescript**
 
-- 💬 Ask me about **Python**
+- 👯 I’m looking to collaborate on **Medical Image Processing Tasks**
 
 - 📫 How to reach me **roa_fayad@hotmail.com**
 
